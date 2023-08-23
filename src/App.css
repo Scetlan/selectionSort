@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.numbers-values,
+.new-values {
+  display: flex;
+  flex-direction: row;
+}
+
+.new-values {
+  margin-top: 30px;
+}
+
+.number {
+  font-size: 50px;
+  padding: 10px 20px;
+  border: 1px solid black;
+}
+
+.btn-sort {
+  margin-top: 30px;
+  padding: 10px 15px;
+
+  color: beige;
+  background-color: rgb(80, 104, 128);
+  border-color: beige;
+}
+
